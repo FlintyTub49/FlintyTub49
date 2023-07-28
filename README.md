@@ -1,8 +1,6 @@
 ![Arth Akhouri](https://raw.githubusercontent.com/FlintyTub49/FlintyTub49/main/assets/10701724_19187756.jpg)
 
-# Data Science Professional - GitHub Overview
-
-## Brief Description
+# About Me
 
 Hello! I am Arth Akhouri, a passionate and results-driven data science professional with a strong background in statistics, machine learning, and data analysis. I thrive on solving complex problems using data-driven approaches and transforming raw data into valuable insights. I have a solid foundation in programming allowing me to adapt to a variety of programming languagess.
 
