@@ -1,11 +1,25 @@
-![Arth Akhouri]()
+![Arth Akhouri](https://github.com/FlintyTub49/FlintyTub49/blob/main/assets/Cover.jpg?raw=true)
 
-# About Me
+## Arth Akhouri
 
-Hello! I am Arth Akhouri, a passionate and results-driven data science professional with a strong background in statistics, machine learning, and data analysis. I thrive on solving complex problems using data-driven approaches and transforming raw data into valuable insights. I have a solid foundation in programming allowing me to adapt to a variety of programming languagess.
+Hello all! I am a passionate and results-driven data science professional with a strong background in statistics, machine learning, and data analysis. I thrive on solving complex problems using data-driven approaches and transforming raw data into valuable insights. I have a solid foundation in programming allowing me to adapt to a variety of programming languagess.
 
-Please feel free to reach out if you have any questions or would like to collaborate on a data science project!
+## Companies that I have worked with
++ [eClerx](https://eclerx.com) <br>
++ [AVL](https://www.avl.com/en) <br>
++ [AkzoNobel](https://www.akzonobel.com) <br>
++ [DKSH Smollan](https://smollan.com) <br>
 
+### Some of my core skills incude:
+* Statistical Analysis
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural Language Processing
+* Big Data
+
+### Connect with Me
+Please feel free to reach out if you have any questions or would like to collaborate on a data science project!<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthakhouri)](https://www.linkedin.com/in/arthakhouri)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthakhouri@gmail.com)](mailto:arthakhouri@gmail.com)
 
