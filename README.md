@@ -1,4 +1,4 @@
-![Arth Akhouri](https://raw.githubusercontent.com/FlintyTub49/FlintyTub49/main/assets/10701724_19187756.jpg)
+![Arth Akhouri]()
 
 # About Me
 
