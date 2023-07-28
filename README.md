@@ -1,6 +1,6 @@
 ![Arth Akhouri](https://github.com/FlintyTub49/FlintyTub49/blob/main/assets/Cover.jpg?raw=true)
 
-## Arth Akhouri
+# Arth Akhouri
 
 Hello all! I am a passionate and results-driven data science professional with a strong background in statistics, machine learning, and data analysis. I thrive on solving complex problems using data-driven approaches and transforming raw data into valuable insights. I have a solid foundation in programming allowing me to adapt to a variety of programming languagess.
 
