@@ -23,7 +23,7 @@ Please feel free to reach out if you have any questions or would like to collabo
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthakhouri)](https://www.linkedin.com/in/arthakhouri)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthakhouri@gmail.com)](mailto:arthakhouri@gmail.com)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FlintyTub49&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FlintyTub49&theme=holi)
 
 <!--
 **FlintyTub49/FlintyTub49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
