@@ -5,10 +5,10 @@
 Hello all! I am a passionate and results-driven data science professional with a strong background in statistics, machine learning, and data analysis. I thrive on solving complex problems using data-driven approaches and transforming raw data into valuable insights. I have a solid foundation in programming allowing me to adapt to a variety of programming languagess.
 
 ## Companies that I have worked with
-+ [eClerx](https://eclerx.com) <br>
-+ [AVL](https://www.avl.com/en) <br>
-+ [AkzoNobel](https://www.akzonobel.com) <br>
-+ [DKSH Smollan](https://smollan.com) <br>
+- [eClerx](https://eclerx.com)
+- [AVL](https://www.avl.com/en)
+- [AkzoNobel](https://www.akzonobel.com)
+- [DKSH Smollan](https://smollan.com)
 
 ### Some of my core skills incude:
 * Statistical Analysis
@@ -19,9 +19,11 @@ Hello all! I am a passionate and results-driven data science professional with a
 * Big Data
 
 ### Connect with Me
-Please feel free to reach out if you have any questions or would like to collaborate on a data science project!<br>
+Please feel free to reach out if you have any questions or would like to collaborate on a data science project!<br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthakhouri)](https://www.linkedin.com/in/arthakhouri)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthakhouri@gmail.com)](mailto:arthakhouri@gmail.com)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FlintyTub49&theme=blue-green)
 
 <!--
 **FlintyTub49/FlintyTub49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
