@@ -1,4 +1,4 @@
-![Arth Akhouri](https://github.com/FlintyTub49/FlintyTub49/blob/main/assets/Cover.jpg?raw=true)
+![Arth Akhouri](https://github.com/FlintyTub49/FlintyTub49/blob/main/assets/New_Cover.jpg?raw=true)
 
 # Arth Akhouri
 
