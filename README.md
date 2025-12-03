@@ -5,18 +5,23 @@
 Hello all! I am a passionate and results-driven data science professional with a strong background in statistics, machine learning, and data analysis. I thrive on solving complex problems using data-driven approaches and transforming raw data into valuable insights. I have a solid foundation in programming allowing me to adapt to a variety of programming languagess.
 
 ## Companies that I have worked with
+- [Mondelēz International](https://www.mondelezinternational.com)
 - [eClerx](https://eclerx.com)
 - [AVL](https://www.avl.com/en)
 - [AkzoNobel](https://www.akzonobel.com)
 - [DKSH Smollan](https://smollan.com)
 
-### Some of my core skills incude:
+### Some of my core skills include:
 * Statistical Analysis
-* Machine Learning
-* Deep Learning
+* Data Pipelines
+* Data Engineering
+* Data Visualizations
+* Machine & Deep Learning
 * Computer Vision
 * Natural Language Processing
 * Big Data
+* Large Language Models
+* Knowledge Graphs
 
 ### Connect with Me
 Please feel free to reach out if you have any questions or would like to collaborate on a data science project!<br><br>
